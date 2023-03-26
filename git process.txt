@@ -1,0 +1,19 @@
+ git --version
+
+git config --global user.email "hoda.jaouhari@edu.uiz.ac.ma"
+
+git config --global user.name "hoda785"
+
+
+
+cd "/c/Users/hp/Desktop/PFE PAIRS TRADING"
+
+git init 
+
+git add .
+
+git commit -m "PFE PAIRS"
+
+git remote add origin https://github.com/hoda785/pfe-pairs
+
+git push -u origin master
